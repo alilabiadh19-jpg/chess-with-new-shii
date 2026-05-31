@@ -1,0 +1,5 @@
+
+1. Create a Firebase project.
+2. Enable Firestore.
+3. Paste firebaseConfig into index.html.
+4. Use room codes as document IDs.
