@@ -1,0 +1,1 @@
+const game={}; console.log('Royal Siege scaffold loaded');
